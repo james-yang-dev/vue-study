@@ -1,0 +1,24 @@
+### todo id를 이용해 todo를 불러온다.
+### param : todoId
+### ex url : todos/:todoId
+get http://localhost:7979/todos/t0001
+
+### todo 목록 전체를 불러온다
+### param : none
+### ex url : todos/
+get http://localhost:7979/todos/
+
+### user 목록 전체를 불러온다
+### param : none
+### ex url : todos/
+get http://localhost:7979/users/
+
+### 이번 시즌 todo 전체를 불러온다
+### param : none
+### ex url : todos/this
+get http://localhost:7979/todos/this
+
+### 다음 todo 전체를 불러온다
+### param : nonedt
+### ex url : todos/next
+get http://localhost:7979/todos/next

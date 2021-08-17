@@ -1,0 +1,135 @@
+{
+  "seasons": [
+    {
+      "title": "pre 시즌",
+      "seasonId": "201901",
+      "seasonFrom": "20190601",
+      "seasonTo": "20190730",
+      "seasonType": ["all"],
+      "isNow": false,
+      "done": true
+    },
+    {
+      "title": "첫시즌",
+      "seasonId": "202001",
+      "seasonFrom": "20200601",
+      "seasonTo": "20200730",
+      "seasonType": ["all"],
+      "isNow": true,
+      "done": false
+    },
+    {
+      "title": "두번째 시즌",
+      "seasonId": "202002",
+      "seasonFrom": "20200801",
+      "seasonTo": "20200930",
+      "seasonType": ["all"],
+      "isNow": false,
+      "done": false
+    },
+    {
+      "title": "세번째 시즌",
+      "seasonId": "202003",
+      "seasonFrom": "20201001",
+      "seasonTo": "20201130",
+      "seasonType": ["all"],
+      "isNow": false,
+      "done": false
+    }
+  ],
+  "todos": [
+    {
+      "id": "t0001",
+      "title": "타이틀",
+      "categoryCode": "03",
+      "description": "자세한 설명은 생략한다11",
+      "links": "https://daum.net",
+      "seasonId": "202001",
+      "userId": "carlos.yang",
+      "done": false
+    },
+    {
+      "id": "t0002",
+      "title": "타이틀",
+      "categoryCode": "03",
+      "description": "자세한 설명은 생략한다",
+      "links": "https://daum.net",
+      "seasonId": "202002",
+      "userId": "carlos.yang",
+      "done": true
+    },
+    {
+      "id": "t0003",
+      "title": "타이틀",
+      "categoryCode": "02",
+      "description": "자세한 설명은 생략한다",
+      "links": "https://daum.net",
+      "seasonId": "202002",
+      "userId": "carlos.yang",
+      "done": true
+    },
+    {
+      "id": "rA29zXAFI",
+      "title": "타이틀",
+      "categoryCode": "03",
+      "description": "자세한 설명은 생략한다11",
+      "links": "https://daum.net",
+      "seasonId": "202001",
+      "userId": "",
+      "done": false
+    }
+  ],
+  "categories": [
+    {
+      "categoryCode": "01",
+      "categoryName": "JS"
+    },
+    {
+      "categoryCode": "02",
+      "categoryName": "HTML"
+    },
+    {
+      "categoryCode": "03",
+      "categoryName": "Vue"
+    },
+    {
+      "categoryCode": "04",
+      "categoryName": "React"
+    },
+    {
+      "categoryCode": "05",
+      "categoryName": "Css"
+    },
+    {
+      "categoryCode": "06",
+      "categoryName": "Etc"
+    }
+  ],
+  "users": [
+    {
+      "id": "carlos.yang",
+      "password": "didaudtn12",
+      "email": "carlos.yang@test.com"
+    },
+    {
+      "id": "rich.mori",
+      "password": "wlsruddl12",
+      "email": "rich.mori@test.com"
+    },
+    {
+      "id": "daisy.shawn",
+      "password": "wjdtjsdl12",
+      "email": "daisy.shawn@test.com"
+    },
+    {
+      "id": "jinny.youn",
+      "password": "dbswlsdl12",
+      "email": "jinny.youn@test.com"
+    },
+    {
+      "id": "rodi.kim",
+      "password": "qhfoal12",
+      "email": "rodi.kim@test.com"
+    }
+  ]
+}
